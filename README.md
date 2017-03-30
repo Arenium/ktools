@@ -12,6 +12,7 @@ cases where two or more bottlenecks occur along the same reaction path and then 
 Miller's unified statistical theory to compute the over-all effective rate constant.
 
 ktools is part of the Multiwell program suite available here:
+
 http://clasp-research.engin.umich.edu/multiwell/downloads.php
 
 Current make file is configured to be placed in <multiwell-2017>/src/ktools and the binary is copied to <multiwell-2017>/bin
